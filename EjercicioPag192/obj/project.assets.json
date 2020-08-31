@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Gian\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\MtsSk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gian\\Desktop\\Repositorio\\Laboratorio II Consola\\EjercicioPag192\\EjercicioPag192\\EjercicioPag192.csproj",
+      "projectUniqueName": "C:\\Users\\MtsSk\\Desktop\\Lic. en Informatica y Desarrollo de Software\\Laboratorio II\\workspaceC#\\laboratorioII\\EjercicioPag192\\EjercicioPag192.csproj",
       "projectName": "EjercicioPag192",
-      "projectPath": "C:\\Users\\Gian\\Desktop\\Repositorio\\Laboratorio II Consola\\EjercicioPag192\\EjercicioPag192\\EjercicioPag192.csproj",
-      "packagesPath": "C:\\Users\\Gian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gian\\Desktop\\Repositorio\\Laboratorio II Consola\\EjercicioPag192\\EjercicioPag192\\obj\\",
+      "projectPath": "C:\\Users\\MtsSk\\Desktop\\Lic. en Informatica y Desarrollo de Software\\Laboratorio II\\workspaceC#\\laboratorioII\\EjercicioPag192\\EjercicioPag192.csproj",
+      "packagesPath": "C:\\Users\\MtsSk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MtsSk\\Desktop\\Lic. en Informatica y Desarrollo de Software\\Laboratorio II\\workspaceC#\\laboratorioII\\EjercicioPag192\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Gian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MtsSk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -48,10 +44,21 @@
     "frameworks": {
       "netcoreapp3.1": {
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

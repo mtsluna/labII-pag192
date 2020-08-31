@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MtsSk\\source\\repos\\EjercicioPag192\\EjercicioPag192\\EjercicioPag192.csproj": {}
+    "C:\\Users\\MtsSk\\Desktop\\Lic. en Informatica y Desarrollo de Software\\Laboratorio II\\workspaceC#\\laboratorioII\\EjercicioPag192\\EjercicioPag192.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MtsSk\\source\\repos\\EjercicioPag192\\EjercicioPag192\\EjercicioPag192.csproj": {
+    "C:\\Users\\MtsSk\\Desktop\\Lic. en Informatica y Desarrollo de Software\\Laboratorio II\\workspaceC#\\laboratorioII\\EjercicioPag192\\EjercicioPag192.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MtsSk\\source\\repos\\EjercicioPag192\\EjercicioPag192\\EjercicioPag192.csproj",
+        "projectUniqueName": "C:\\Users\\MtsSk\\Desktop\\Lic. en Informatica y Desarrollo de Software\\Laboratorio II\\workspaceC#\\laboratorioII\\EjercicioPag192\\EjercicioPag192.csproj",
         "projectName": "EjercicioPag192",
-        "projectPath": "C:\\Users\\MtsSk\\source\\repos\\EjercicioPag192\\EjercicioPag192\\EjercicioPag192.csproj",
+        "projectPath": "C:\\Users\\MtsSk\\Desktop\\Lic. en Informatica y Desarrollo de Software\\Laboratorio II\\workspaceC#\\laboratorioII\\EjercicioPag192\\EjercicioPag192.csproj",
         "packagesPath": "C:\\Users\\MtsSk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MtsSk\\source\\repos\\EjercicioPag192\\EjercicioPag192\\obj\\",
+        "outputPath": "C:\\Users\\MtsSk\\Desktop\\Lic. en Informatica y Desarrollo de Software\\Laboratorio II\\workspaceC#\\laboratorioII\\EjercicioPag192\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MtsSk\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,3 +11,16 @@ C:\Users\MtsSk\source\repos\EjercicioPag192\EjercicioPag192\obj\Debug\netcoreapp
 C:\Users\MtsSk\source\repos\EjercicioPag192\EjercicioPag192\obj\Debug\netcoreapp3.1\EjercicioPag192.dll
 C:\Users\MtsSk\source\repos\EjercicioPag192\EjercicioPag192\obj\Debug\netcoreapp3.1\EjercicioPag192.pdb
 C:\Users\MtsSk\source\repos\EjercicioPag192\EjercicioPag192\obj\Debug\netcoreapp3.1\EjercicioPag192.genruntimeconfig.cache
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\EjercicioPag192\bin\Debug\netcoreapp3.1\EjercicioPag192.exe
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\EjercicioPag192\bin\Debug\netcoreapp3.1\EjercicioPag192.deps.json
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\EjercicioPag192\bin\Debug\netcoreapp3.1\EjercicioPag192.runtimeconfig.json
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\EjercicioPag192\bin\Debug\netcoreapp3.1\EjercicioPag192.runtimeconfig.dev.json
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\EjercicioPag192\bin\Debug\netcoreapp3.1\EjercicioPag192.dll
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\EjercicioPag192\bin\Debug\netcoreapp3.1\EjercicioPag192.pdb
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\EjercicioPag192\obj\Debug\netcoreapp3.1\EjercicioPag192.csprojAssemblyReference.cache
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\EjercicioPag192\obj\Debug\netcoreapp3.1\EjercicioPag192.AssemblyInfoInputs.cache
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\EjercicioPag192\obj\Debug\netcoreapp3.1\EjercicioPag192.AssemblyInfo.cs
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\EjercicioPag192\obj\Debug\netcoreapp3.1\EjercicioPag192.csproj.CoreCompileInputs.cache
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\EjercicioPag192\obj\Debug\netcoreapp3.1\EjercicioPag192.dll
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\EjercicioPag192\obj\Debug\netcoreapp3.1\EjercicioPag192.pdb
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\EjercicioPag192\obj\Debug\netcoreapp3.1\EjercicioPag192.genruntimeconfig.cache

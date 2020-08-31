@@ -7,6 +7,7 @@ namespace EjercicioPag192
     {
         static void Main(string[] args)
         {
+            Ejercicio.exec();
         }
     }
 }
