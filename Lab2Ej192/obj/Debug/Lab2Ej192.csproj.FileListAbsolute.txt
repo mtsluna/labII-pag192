@@ -1,0 +1,6 @@
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\Lab2Ej192\Lab2Ej192\bin\Debug\Lab2Ej192.exe.config
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\Lab2Ej192\Lab2Ej192\bin\Debug\Lab2Ej192.exe
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\Lab2Ej192\Lab2Ej192\bin\Debug\Lab2Ej192.pdb
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\Lab2Ej192\Lab2Ej192\obj\Debug\Lab2Ej192.csproj.CoreCompileInputs.cache
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\Lab2Ej192\Lab2Ej192\obj\Debug\Lab2Ej192.exe
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\laboratorioII\Lab2Ej192\Lab2Ej192\obj\Debug\Lab2Ej192.pdb
